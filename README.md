@@ -94,11 +94,10 @@ project-freedom/
 ├── README.md              # Project documentation
 │
 ├── utils/                 # Utility functions for processing files
-│   ├── ocr_utils.py       # OCR-related helper functions
-│   ├── pdf_utils.py       # PDF text extraction
-│   └── docx_utils.py      # Word document text extraction
-│
-└── assets/                # Static assets (images, logos, etc.)
+    ├── ocr_utils.py       # OCR-related helper functions
+    ├── pdf_utils.py       # PDF text extraction
+    └── docx_utils.py      # Word document text extraction
+
 ```
 
 ---
@@ -146,18 +145,12 @@ Contributions are welcome! If you'd like to improve the project or add new featu
 
 ---
 
-## 🛡️ License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## 📬 Contact
 
 If you have any questions or suggestions, feel free to reach out:
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)  
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
+- **Email**: kingsukh.amit@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/amitkmazumdar/
 
 ---
 

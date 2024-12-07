@@ -90,13 +90,9 @@ project-freedom/
 │
 ├── app.py                 # Main application code
 ├── requirements.txt       # Python dependencies
-├── .env.example           # Example for environment variables
+├── .env                   # Example for environment variables
 ├── README.md              # Project documentation
-│
-├── utils/                 # Utility functions for processing files
-    ├── ocr_utils.py       # OCR-related helper functions
-    ├── pdf_utils.py       # PDF text extraction
-    └── docx_utils.py      # Word document text extraction
+
 
 ```
 

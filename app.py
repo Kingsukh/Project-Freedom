@@ -14,7 +14,7 @@ api_key = os.getenv("GOOGLE_API_KEY")
 if not api_key:
     st.error("API key not found. Please check your .env file.")
 
-# Configure API key for Google PaLM
+# Configure API key for Google
 genai.configure(api_key=api_key)
 
 # Helper functions for file processing
